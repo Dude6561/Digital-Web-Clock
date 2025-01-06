@@ -1,4 +1,4 @@
-import React, { useState, useEffect } from "react";
+
 
 export default function DigitalClock() {
   const [time, setTime] = useState<Date>(new Date());
